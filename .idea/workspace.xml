@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edfbe022-93de-4205-bd35-654e04c864f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAM1qHembcveUd3otlecQNy6im" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ssahoo\Downloads\Spring_Security\Java8\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrSum">
+    <configuration name="Anagram_Chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram_Chars" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrSum" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapCompareByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapCompareByValue" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveTheElementToRightIfZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveTheElementToRightIfZero" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegxDemo" />
+      <module name="Java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrSum" />
+        <item itemvalue="Application.MoveTheElementToRightIfZero" />
+        <item itemvalue="Application.HashMapCompareByValue" />
+        <item itemvalue="Application.Anagram_Chars" />
+        <item itemvalue="Application.RegxDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edfbe022-93de-4205-bd35-654e04c864f6" name="Default Changelist" comment="" />
+      <created>1582380732548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582380732548</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1588504401997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588504401997" />
+    <state x="113" y="244" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1590226523647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="113" y="244" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.0.1366.728@0.0.1366.728" timestamp="1590226523647" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586795529061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586795529061" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586876780337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586876780337" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586876768694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586876768694" />
+    <state x="635" y="125" key="#xdebugger.evaluate" timestamp="1590226485476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="635" y="125" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1590226485476" />
+    <state width="424" height="458" key="DebuggerActiveHint" timestamp="1589006936420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="424" height="458" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1589006936420" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1588434203796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588434203796" />
+    <state width="1306" height="187" key="GridCell.Tab.0.bottom" timestamp="1590253941652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590253941652" />
+    <state width="1306" height="187" key="GridCell.Tab.0.center" timestamp="1590253941652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590253941652" />
+    <state width="1306" height="187" key="GridCell.Tab.0.left" timestamp="1590253941652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590253941652" />
+    <state width="1306" height="187" key="GridCell.Tab.0.right" timestamp="1590253941652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590253941652" />
+    <state width="1306" height="287" key="GridCell.Tab.1.bottom" timestamp="1590245872468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="287" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590245872468" />
+    <state width="1306" height="287" key="GridCell.Tab.1.center" timestamp="1590245872468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="287" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590245872468" />
+    <state width="1306" height="287" key="GridCell.Tab.1.left" timestamp="1590245872468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="287" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590245872468" />
+    <state width="1306" height="287" key="GridCell.Tab.1.right" timestamp="1590245872468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="287" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590245872468" />
+    <state width="1306" height="223" key="GridCell.Tab.2.bottom" timestamp="1582721770306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582721770306" />
+    <state width="1306" height="223" key="GridCell.Tab.2.center" timestamp="1582721770306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1582721770306" />
+    <state width="1306" height="223" key="GridCell.Tab.2.left" timestamp="1582721770306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1582721770306" />
+    <state width="1306" height="223" key="GridCell.Tab.2.right" timestamp="1582721770306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1582721770306" />
+    <state x="263" y="110" key="IDE.errors.dialog" timestamp="1589340916449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="110" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1589340916449" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1582805590361">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582805590361" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589972543865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1589972543865" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590219852040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590219852040" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585979341851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585979341851" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582384363066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582384363066" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582715651839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582715651839" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntegerPermutation.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RegxDemo.java</url>
+          <line>3</line>
+          <properties class="RegxDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
